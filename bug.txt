@@ -1,0 +1,3 @@
+Hello this is bug fix log file.
+here we display bug log data.
+Thank you bye.
